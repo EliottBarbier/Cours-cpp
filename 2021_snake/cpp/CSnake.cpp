@@ -85,3 +85,5 @@ std::pair<int,int> CSnake::pop_front(CSnake &snaketot){
     snaketot.queue=snaketot.snake[0]
     return(queue);
 }
+
+std::pair<int,int> CSnake::snake_mouv(CSnake &snaketot,)
